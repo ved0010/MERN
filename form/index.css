@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+body{
+    /* margin: 10px; */
+    /* display: block; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    height: 790px;
+    width: 460px;
+    border-radius: 10px;
+    padding: 40px 80px;
+    /* gap: 32px; */
+    background-color: #FFFFFF;
+    box-shadow: 3px , #4B5768;
+}
+
+h2{
+    font-size: 32px;
+    font-family: Nunito Sans ;
+    font-weight: 600;
+}
+.f-div{
+    /* padding-top: 5px 0px; */
+    justify-content: space-around;
+}
+label{
+    padding: 5px 0 ;
+}
+.t1{
+    font-size: 16px;
+    font-family: Poppins;
+    font-weight: 400;
+    max-width: 80px;
+    color: #4B5768;
+    height: 16px;
+    padding-top: 4px;
+}
+
+
+.input-box{
+    width: 300px;
+    height: 40px;
+    border-radius: 6px;
+    border: 1px;
+    /* border-color:#F7F8F9; */
+    background-color: #F7F8F9;
+}
+button{
+    padding: 16px, 8px, 16px, 8px;
+    justify-content: center;
+    height: 48px;;
+    border-radius: 20px;
+    
+    color: #FFF;
+    width: 270px;
+    /* align-items: center; */
+}
+.Google{
+    background: black;
+}
+.Sup{
+    background-color: #10B981;
+}
+.btn
+{
+    justify-content: center;
+    align-items: center;
+}
+
+.btn p{
+padding-left: 130px;
+color: #4B5768;
+}
+h3{
+    font-size: 18px;
+    padding-left: 20px;
+    font-weight: 500;
+}
